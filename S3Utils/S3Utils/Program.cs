@@ -13,8 +13,8 @@ namespace S3Utils
         //private const string bucketName = "*** versioning-enabled bucket name ***";
         //// Specify your bucket region (an example region is shown).
         //private static readonly RegionEndpoint bucketRegion = RegionEndpoint.USWest2;
-        static string key = "AKIAWXXRZRULY3GO2OG7";
-        static string secret = "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";
+        static string key = "key";
+        static string secret = "secret";
 
         //private static IAmazonS3 s3Client;
 
